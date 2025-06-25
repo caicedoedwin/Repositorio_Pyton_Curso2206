@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+./idea/*
+./idea*
+/vcs.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/Repositorio_Pyton_Curso2206.iml
+/.idea/vcs.xml
